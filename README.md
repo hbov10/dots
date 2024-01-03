@@ -1,7 +1,7 @@
 ### Dots
 Simple collection of files for customization.
 
-Programs:
+##Programs:
 - Sway
 - Dunst
 - Alacritty
@@ -11,9 +11,9 @@ Programs:
 - nvim
 - gammastep
 
-requirements:
-pfetch
-zsh-autosuggestions
-zsh-syntax-highlighting
-some manual scripts (included) may need to be made executable
-some directories may need renaming as I forgot to use $HOME in some lines
+##requirements:
+- pfetch
+- zsh-autosuggestions
+- zsh-syntax-highlighting
+- some manual scripts (included) may need to be made executable
+- some directories may need renaming as I forgot to use $HOME in some lines
